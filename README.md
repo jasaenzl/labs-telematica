@@ -1,6 +1,6 @@
 # 🌐 labs-telematica
 
-Repositorio de **recursos de apoyo académico** para las áreas de **Networking** e **Información Security**.  
+Repositorio de **recursos de apoyo académico** para las áreas de **Networking** y **Ciberseguridad**.  
 Perteneciente a los proyectos curriculares de **Tecnología en Sistematización de Datos** e **Ingeniería Telemática** de la **Universidad Distrital Francisco José de Caldas**.
 
 ## 🎯 Objetivo
